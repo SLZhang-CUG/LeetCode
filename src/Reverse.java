@@ -41,7 +41,7 @@
  * overflows.
  *
  */
-class Solution {
+class Reverse {
     public int reverse(int x) {
         long y = 0;
         do{
